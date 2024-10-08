@@ -3,14 +3,14 @@ class Translation(object):
       
       START_TEXT = """
 
-😃 Hai {},
+😃 Hi {},
 
 I am a simple auto caption bot
 I can automatically add pre-setted caption to the files in channels
 
 I am currently working for a channel if you want to use me, Use my source code and Deploy me
 
-⚜️ Maintained By 👉 @{}
+⚜️ Maintained By 👉 @triggeredsoul_07ded{}
 """    
 
       HELP_TEXT = """
@@ -38,7 +38,7 @@ I am currently working for a channel if you want to use me, Use my source code a
 📕 --𝐀𝐛𝐨𝐮𝐭-- --𝐌𝐞--
 
 
-○ ᴍʏ ɴᴀᴍᴇ : [Auto Caption | Ts Bots](https://t.me/Anylink_Movies)
+○ ᴍʏ ɴᴀᴍᴇ : [A2Z Auto Caption](https://t.me/A2ZMovieRequesst)
 
 ○ ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ 
 
